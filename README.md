@@ -8,7 +8,7 @@
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
--->>
+-->
 - 🔭 I’m currently working on Senior FullStack Developer  
 - 🌱 I'm currently studying a Postgraduate Degree in Software Engineering. 
 - 😄 Pronouns: He/Him  
