@@ -1,6 +1,6 @@
 # Hi! I'm Leandro Zulian 👋🏻
 ## 🚀 About me      
-
+<!-- https://github.com/Platane/snk
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
@@ -8,7 +8,7 @@
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
-
+-->>
 - 🔭 I’m currently working on Senior FullStack Developer  
 - 🌱 I'm currently studying a Postgraduate Degree in Software Engineering. 
 - 😄 Pronouns: He/Him  
